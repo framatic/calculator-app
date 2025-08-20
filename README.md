@@ -19,8 +19,7 @@ I wanted to learn how to:
 - Package Python apps using PyInstaller
 - Add polish with icons, styling, and user-friendly design
 This project helped me explore event handling, widget placement, state management, and distribution—all in one go.
-
-I will try to better it with time
+The app may have some problem but I will try to better it with time
 
 
 
